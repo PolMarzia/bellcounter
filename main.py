@@ -25,5 +25,9 @@ def close(message):
                      text="Смена закончена. Колоколов сегодня было: " + str(mas))
     mas = 0
 
+
+
+#хааа бля паскалка здорова ебать плохобаровцы))0)0))
+
 if __name__ == "__main__":
     bot.polling(none_stop=True, interval=0)
